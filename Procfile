@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT free_movies_2574.wsgi:application
